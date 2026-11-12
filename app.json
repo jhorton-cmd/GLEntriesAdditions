@@ -1,0 +1,39 @@
+{
+  "id": "09b3f367-653b-4fca-a3ef-1eafc924fac6",
+  "name": "GLEntryAddition",
+  "publisher": "IDE-JodyH",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "527408c8-098c-4927-8b98-d945d940e500",
+      "name": "Hunter_Farmer",
+      "publisher": "IDE-JodyH",
+      "version": "1.0.0.6"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50250,
+      "to": 50259
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
